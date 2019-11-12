@@ -1,3 +1,13 @@
 apiVersion: v1
-entries: {}
-generated: "2019-11-12T17:19:09.754229985+01:00"
+entries:
+  springboot:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-11-12T17:27:30.737809853+01:00"
+    description: A Helm chart for Spring Boot.
+    digest: 16ba4f12ed737cb4eb7ae5a33c1ff6abb5d65f7e4a1b88d77b96fa8e30e8f329
+    name: springboot
+    urls:
+    - https://github.com/carstenevers/helm-charts.git/springboot-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-11-12T17:27:30.737521975+01:00"
